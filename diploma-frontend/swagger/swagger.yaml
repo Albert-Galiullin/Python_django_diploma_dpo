@@ -33,7 +33,6 @@ paths:
         '200':
           description: successful operation
 
-
   /sign-up:
     post:
       tags:
@@ -891,6 +890,7 @@ components:
         alt:
           type: string
           example: 'Image alt string'
+
 
 
 
